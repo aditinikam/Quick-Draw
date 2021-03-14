@@ -1,9 +1,11 @@
 # Quick-Draw
 ## Objective
 Creating an angular webapp to draw an image and to guess that image using a convoluted neural network[CNN] model for image processing of the created dataset.
+## Visit our website
+http://3.142.125.49/
 ## Clone the Repository
 ```
-
+https://github.com/aditinikam/Quick-Draw.git
 cd Quick-Draw
 ```
 ### Option 1: Conda Environment Installation
